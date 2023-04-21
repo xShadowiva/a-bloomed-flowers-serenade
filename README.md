@@ -2,8 +2,7 @@
 
   <body>
     <center> 
-     <h2>Home</h2>
-  <hr>Welcome! Click link below to access Home Page!<!--Creates a horizontal rule--><br>
-  <a href="home.html">✽ Home Page ✽</a> <br>
+      </h2>Welcome! Click link below to access Home Page!</h2>
+  <a href="home.html">✽ Click Me ! ✽</a> <br>
      </center>
   </body>

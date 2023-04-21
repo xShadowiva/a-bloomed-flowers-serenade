@@ -23,3 +23,5 @@ a:active  {color: #33ccff;}
   <hr>Welcome! Click link below to access Home Page!<!--Creates a horizontal rule--><br>
   <a href="home.html">✽ Home Page ✽</a> <br>
      </center>
+  </body>
+</head>    

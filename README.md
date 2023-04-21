@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-
+<html>
+<!--HTML and CSS template-->
+<head>
 <style>
 #content /*Styles for Main Content area*/
 {
@@ -14,9 +16,9 @@ a:link    {color: #003961;}
 a:visited {color: #003961;}
 a:hover   {color: #ffffff;}
 a:active  {color: #33ccff;}
-
+</head>
 </style>
-<head>
+
   <body>
     <center> 
      <h2>Home</h2>
@@ -24,4 +26,3 @@ a:active  {color: #33ccff;}
   <a href="home.html">✽ Home Page ✽</a> <br>
      </center>
   </body>
-</head>    
